@@ -1,0 +1,6 @@
+cat > command.txt 
+for creating a text file and write something on it
+eval `ssh-agent -s`
+
+ssh-add ~/.ssh/id_ed25519
+
